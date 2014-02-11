@@ -1,6 +1,6 @@
 from setuptools import setup
 
-VERSION = (0, 1)
+VERSION = (0, 2)
 __version__ = '.'.join(map(str, VERSION[0:2]))
 __description__ = 'Easily manage your python application settings for different environments'
 __author__ = 'Abhinav Singh'
